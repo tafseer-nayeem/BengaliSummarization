@@ -2,7 +2,7 @@
 
 Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali Text Documents](https://arxiv.org/abs/2102.04490) accepted at [EACL 2021](https://2021.eacl.org/). 
 
-[Dataset](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset)
+* [Dataset](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset)
 - [BNLPC](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset/BNLPC)
 - [NCTB](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset/NCTB)
 
