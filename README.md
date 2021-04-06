@@ -6,6 +6,8 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 - [BNLPC](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset/BNLPC)
 - [NCTB](https://github.com/tafseer-nayeem/BengaliSummarization/tree/main/Dataset/NCTB)
 
+* [Presentation](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf)
+
 ## Authors
 
 - Radia Rayan Chowdhury*
