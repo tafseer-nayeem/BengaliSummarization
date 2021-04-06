@@ -10,4 +10,20 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 - Md. Saifur Rahman Chowdhury
 - Taufiqul Jannat
 
-[*Equal Contribution]
+*[*Equal Contribution]*
+
+## Citation
+
+If you use any of the resources or it's related to your work, please cite the paper. 
+
+```
+@inproceedings{chowdhury-etal-2021-bensumm,
+    title = "Unsupervised Abstractive Summarization of Bengali Text Documents",
+    author  = {Radia Rayan Chowdhury and Mir Tafseer Nayeem and Tahsin Tasnim Mim and Md. Saifur Rahman Chowdhury and Taufiqul Jannat},
+    booktitle = "Proceedings of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics (EACL)",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics"
+}
+```
