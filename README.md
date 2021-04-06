@@ -14,7 +14,7 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 
 ## Citation
 
-If you use any of the resources or it's related to your work, please cite the paper. 
+If you use any of the resources or it's relevant to your work, please cite the paper. 
 
 ```
 @inproceedings{chowdhury-etal-2021-bensumm,
