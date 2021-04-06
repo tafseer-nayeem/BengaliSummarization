@@ -15,7 +15,7 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 - Md. Saifur Rahman Chowdhury
 - Taufiqul Jannat
 
-*Equal Contribution
+*[Equal Contribution]
 
 ## Citation
 
