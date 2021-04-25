@@ -9,6 +9,10 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 - [Poster](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf)
 - [Demo Video](https://youtu.be/LrnskktiXcg)
 
+## Instructions
+
+Download the pretrained ULMFiT model named `export.pkl` from this [link](https://drive.google.com/drive/folders/11ynzy-mX2zF4JsYruwDftMvXGCY2dTzi?usp=sharing) and place it in the model directory.
+
 ## Authors
 
 - Radia Rayan Chowdhury*
