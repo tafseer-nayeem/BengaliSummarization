@@ -8,7 +8,7 @@ def listToString(s):
     return (str1.join(s)) 
 
 def summary(sentences):
-    compresser = takahe2.word_graph(sentences, nb_words = 13, lang = 'bangla', punct_tag = "PUNCT" )
+    compresser = takahe2.word_graph(sentences, nb_words = 6, lang = 'bangla', punct_tag = "PUNCT" )
 
     # Get the 50 best paths
     candidates = compresser.get_compression(50)
