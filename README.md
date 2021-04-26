@@ -11,7 +11,9 @@ Code and Dataset of our work, [Unsupervised Abstractive Summarization of Bengali
 
 ## Instructions
 
-Download the pretrained ULMFiT model named `export.pkl` from this [link](https://drive.google.com/drive/folders/11ynzy-mX2zF4JsYruwDftMvXGCY2dTzi?usp=sharing) and place it in the `Code/AbstractiveSummarizer/model/` directory.
+Download the pretrained ULMFiT model named `export.pkl` from this [link](https://drive.google.com/drive/folders/11ynzy-mX2zF4JsYruwDftMvXGCY2dTzi?usp=sharing) and place it in the `Code/AbstractiveSummarizer/model/` directory. 
+
+**Note:** If you find some errors, you may try downgrading PyTorch, FastAI, and NetworkX. 
 
 ## Authors
 
